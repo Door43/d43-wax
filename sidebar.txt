@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wax:home|Door43 (wax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wax|d43-wax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wax/archive/master.zip|d43-wax.zip]]
+
+**Recent Changes**
+{{changes>ns = wax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wax|Ethnologue data]]
+
